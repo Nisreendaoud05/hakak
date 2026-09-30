@@ -1,0 +1,17 @@
+[
+  {
+    "title": "شراء سيارة",
+    "description": "يمكنك الحصول على إعفاء عند شراء سيارة",
+    "documentName": "car.pdf"
+  },
+  {
+    "title": "إعفاءات",
+    "description": "إعفاءات حكومية متاحة",
+    "documentName": "exemption.pdf"
+  },
+  {
+    "title": "حقوق مستأجر",
+    "description": "حقوقك كمستأجر محفوظة",
+    "documentName": "tenant.pdf"
+  }
+]

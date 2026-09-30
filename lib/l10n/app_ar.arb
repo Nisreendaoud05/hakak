@@ -1,0 +1,54 @@
+{
+  "changeLanguage": " اللغة",
+  "slogan": "حقّك.. ما بضيع",
+    "firstLogin": "تسجيل الدخول لاول مرة",
+    "advisor": "المستشار",
+      "account": "الحساب",
+      "myReports": "بلاغاتي",
+      "myRights": "حقوقي",
+      "home": "الرئيسية",
+      "fullName": "الاسم الكامل",
+        "enterName": "ادخل الاسم هنا",
+        "email": "البريد الالكتروني",
+        "enterEmail": "البريد الالكتروني",
+        "nationalID": "الرقم الوطني",
+        "enterNationalID": "الرقم الوطني",
+        "phone": "رقم الهاتف",
+        "enterPhone": "رقم الهاتف",
+        "job": "المهنة",
+        "enterJob": "المهنة",
+        "password": "كلمة السر",
+        "enterPassword": "كلمة السر",
+        "dob": "تاريخ الميلاد",
+        "pickDOB": "اختر تاريخ الميلاد",
+        "loginButton": "تسجيل الدخول",
+        "alreadyHaveAccount": "لديك حساب بالفعل ؟",
+        "login": "تسجيل الدخول",
+        "nationality":"الجنسية"
+        "fill":"يرجى ملء جميع الحقول المطلوبة"
+        "مواعيد هامة":"impo"
+        "Quick ":"الوصول السريع "
+        "Exemptions":"اعفاءات"
+        "BuyingCar ":"شراء سيارة"
+        "Tenant Rights":"حقوق مستأجر"
+        "My rights by case":"حقوقي حسب الحالة"
+        "View transaction":"عرض المعاملة"
+"transactionDeadline":"xx-xx-xxxx : اخر موعد لتقديم الاعتراض للمعاملة - اسم المعاملة - يكون بتاريخ"
+"dis":"وصف بسيط عن الحالة يظهر هنا بشكل مختصر"
+"follow":"متابعة"
+"truee":"الرجاء إدخال بريد إلكتروني صحيح"
+"pass":"كلمة المرور يجب أن تكون 6 أحرف على الأقل"
+"pass2":"رقم الهوية يجب أن يكون 10 أرقام"
+"up":"تعديل الحساب"
+"Appearance":المظهر
+"Register Again":"اعادة التسجيل"
+"log":"تسجيل الخروج "
+"View Details":"عرض التفاصيل"
+"Completed":"مكتملة"
+"In Progress":"قيد التنفيذ"
+"Search reports...":"البحث في البلاغات..."
+"Personal Information":"المعلومات الشخصية"
+"بيانات الدخول":"Login Credentials"
+"Settings":"الاعدادات"
+
+}

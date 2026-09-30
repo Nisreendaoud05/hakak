@@ -1,0 +1,56 @@
+{
+  "login": "Login",
+  "welcome": "Welcome",
+  "changeLanguage": "Language",
+  "slogan": "Your right.. won't be lost",
+    "login": "Login",
+    "firstLogin": "First time login",
+"advisor": "Advisor",
+  "account": "Account",
+  "myReports": "My Reports",
+  "myRights": "My Rights",
+  "home": "Home",
+  "fullName": "Full Name",
+    "enterName": "Enter your name",
+    "email": "Email",
+    "enterEmail": "Email",
+    "nationalID": "National ID",
+    "enterNationalID": "National ID",
+    "phone": "Phone Number",
+    "enterPhone": "Phone Number",
+    "job": "Job",
+    "enterJob": "Job",
+    "password": "Password",
+    "enterPassword": "Password",
+    "dob": "Date of Birth",
+    "pickDOB": "Pick a date",
+    "loginButton": "Login",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+"nationality":"Nationality"
+"fill":"Please fill in all required fields"
+"impo":"Significant Dates"
+"Quick":"Quick Access"
+"Exemptions":"Exemptions"
+"BuyingCar ":"BuyingCar "
+        "Tenant rights":"Tenant rights"
+                "My rights by case":"My rights by case"
+                        "View transaction":"View transaction"
+                        "transactionDeadline":"xx-xx-xxxx: The deadline to submit an objection for the transaction - Transaction Name - is on"
+"dis":"A brief description of the case appears here"
+"follow":"Continue"
+"truee":"Please enter a valid email address"
+"pass":"Password must be at least 6 characters"
+"pass2":"National ID must be 10 digits"
+"up":"Edit Account"
+"Appearance":"Appearance"
+"Register Again":"Register Again"
+"log":"Sign Out"
+"View Details":"View Details"
+"Completed":"Completed"
+"In Progress":"In Progress"
+"Search reports...":"Search reports..."
+"Personal Information":"Personal Information"
+"Login Credentials":"Login Credentials"
+"Settings":"Settings"
+}
