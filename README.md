@@ -1,16 +1,13 @@
-# untitled19
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hakak (حقّك) 🇯🇴
+Hakak is a Flutter & Firebase-based application developed to help citizens discover the government rights and services they may be eligible for based on changes in their personal circumstances.
+Features
+Proactive rights & eligibility notifications
+AI-powered chatbot
+Arabic localization
+Dark mode
+User-friendly interface
+Developed as part of the Crown Prince Foundation competition for the Best Government Application, where our team advanced to the technical evaluation stage.
+Team
+Developed with 🤍 by the Hakak team.
+🔗 GitHub Repository:
+https://github.com/Nisreendaoud05/hakak
